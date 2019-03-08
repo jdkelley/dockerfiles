@@ -1,0 +1,8 @@
+.git/
+.gitignore
+dive.log
+Dockerfile*
+.dockerignore
+README*
+LICENSE*
+.travis.yml
