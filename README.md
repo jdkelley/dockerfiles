@@ -8,6 +8,3 @@ You can find most of these built as images and availabe on dockerhub under [jdke
 
 If an image doesn't work for you or you have an image you would like me to add, drop an issue or a pull request. 
 
-
-
-

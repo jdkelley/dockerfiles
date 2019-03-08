@@ -6,3 +6,4 @@ Dockerfile*
 README*
 LICENSE*
 .travis.yml
+.vscode/
