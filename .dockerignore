@@ -7,3 +7,4 @@ README*
 LICENSE*
 .travis.yml
 .vscode/
+.DS_Store

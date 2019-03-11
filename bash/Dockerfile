@@ -1,3 +1,8 @@
+#
+# docker run --rm \
+#     -it \
+#     jdkelley/bash
+#
 FROM alpine:3.9
 
 WORKDIR /scripts
