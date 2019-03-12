@@ -18,5 +18,5 @@ With this configuration, you don't get the useful functionality where you can cl
 
 [//]: # "LINKS"
 
-[1]: https://github.com/antonmedv/fx      "fx source on GitHub"
+[1]: https://github.com/antonmedv/fx      "fx Source Code (GitHub)"
 [2]: https://hub.docker.com/r/jdkelley/fx "jdkelley/fx on Docker Hub"
