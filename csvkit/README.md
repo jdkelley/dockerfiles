@@ -2,6 +2,8 @@
 
 [csvkit][1] in a container. This is useful if you do not want to depend on having installed dependencies to your CI node or if you are unable to install dependencies.
 
+For full usage visit the [source code][2] and the [latest release documentation][3].
+
 ### Usage | Pipes
 
 ```
@@ -40,7 +42,7 @@ docker run --rm \
 
 ### Deployed
 
-This is deployed on Docker Hub using their autobuilds tool: [jdkelley/bash][3]
+This is deployed on Docker Hub using their autobuilds tool: [jdkelley/bash][4]
 
 [//]: # "LINKS"
 
