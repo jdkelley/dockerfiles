@@ -1,5 +1,6 @@
 ## bash
 
+[Bash][1] in a container. This is useful if the system you are on does not have an up to date version of bash and you are unable to upgrade. Examples of this might be a shared CI node, a build server that must provide multiple versions of bash, or a Mac.
 
 ### Usage
 
@@ -37,6 +38,9 @@ docker run --rm \
 
 ### Deployed
 
-This is deployed on Docker Hub using their autobuilds tool:
+This is deployed on Docker Hub using their autobuilds tool: [jdkelley/bash][2]
 
-* <https://hub.docker.com/r/jdkelley/bash>
+[//]: # "LINKS"
+
+[1]: https://www.gnu.org/software/bash/     "GNU Bash"
+[2]: https://hub.docker.com/r/jdkelley/bash "jdkelley/bash on Docker Hub"
