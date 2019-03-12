@@ -42,7 +42,7 @@ docker run --rm \
 
 ### Deployed
 
-This is deployed on Docker Hub using their autobuilds tool: [jdkelley/bash][4]
+This is deployed on Docker Hub using their autobuilds tool: [jdkelley/csvkit][4]
 
 [//]: # "LINKS"
 
