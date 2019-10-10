@@ -4,6 +4,8 @@
 #
 FROM node:11.10-alpine as fx
 
+LABEL maintainer="jdkelley.oss@gmail.com"
+
 RUN npm install -g fx
 
 ENTRYPOINT ["fx"]

@@ -3,7 +3,10 @@
 #     -it \
 #     jdkelley/bash
 #
-FROM alpine:3.9
+ARG ALPINE_VERSION=3.10
+FROM jdkelley/alpine:${ALPINE_VERSION}
+
+LABEL maintainer="jdkelley.oss@gmail.com"
 
 WORKDIR /scripts
 

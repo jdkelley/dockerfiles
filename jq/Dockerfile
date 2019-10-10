@@ -14,6 +14,7 @@ RUN wget -O jq https://github.com/stedolan/jq/releases/download/jq-${JQ_VERSION}
     && chmod u+x jq
 
 FROM scratch 
+LABEL maintainer="jdkelley.oss@gmail.com"
 
 COPY --from=jq-installer /bin/jq /jq
 
