@@ -10,7 +10,8 @@ curl -s 'https://api.github.com/repos/jdkelley/dockerfiles/commits?per_page=1' |
 
 ### Deployed
 
-This is deployed on Docker Hub using their autobuilds tool: [jdkelley/fx][2]
+This is deployed on [Docker Hub][2] and [GitHub Package Registry][3].
+
 
 ### NOTE
 
@@ -19,4 +20,5 @@ With this configuration, you don't get the useful functionality where you can cl
 [//]: # "LINKS"
 
 [1]: https://github.com/antonmedv/fx      "fx Source Code (GitHub)"
-[2]: https://hub.docker.com/r/jdkelley/fx "jdkelley/fx on Docker Hub"
+[2]: https://hub.docker.com/r/jdkelley/fx "jdkelley/fx"
+[3]: https://github.com/jdkelley/dockerfiles/packages/39807 "Deployed on GitHub Package Registry"

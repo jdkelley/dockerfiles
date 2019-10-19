@@ -15,7 +15,7 @@ FROM jdkelley/nginx:latest
 
 ### Deployed
 
-This is deployed on Docker Hub using their autobuilds tool: [jdkelley/nginx][5]
+This is deployed on [Docker Hub][5] and [GitHub Package Registry][6].
 
 [//]: # "LINKS"
 
@@ -23,4 +23,5 @@ This is deployed on Docker Hub using their autobuilds tool: [jdkelley/nginx][5]
 [2]: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-1549  "CVE-2019-1549"
 [3]: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-1563  "CVE-2019-1563"
 [4]: https://github.com/alpinelinux/docker-alpine/issues/39        "docker-alpine Issue #39"
-[5]: https://hub.docker.com/r/jdkelley/nginx                       "jdkelley/nginx on Docker Hub"
+[5]: https://hub.docker.com/r/jdkelley/nginx                       "jdkelley/nginx"
+[6]: https://github.com/jdkelley/dockerfiles/packages/39809 "Deployed on GitHub Package Registry"

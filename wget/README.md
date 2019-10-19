@@ -50,9 +50,10 @@ docker run --rm \
 
 ### Deployed
 
-This is deployed on Docker Hub using their autobuilds tool: [jdkelley/wget][2]
+This is deployed on [Docker Hub][2] and [GitHub Package Registry][3].
 
 [//]: # "LINKS"
 
 [1]: https://www.gnu.org/software/wget/manual/     "GNU Wget"
-[2]: https://hub.docker.com/r/jdkelley/wget        "jdkelley/wget on Docker Hub"
+[2]: https://hub.docker.com/r/jdkelley/wget        "jdkelley/wget"
+[3]: https://github.com/jdkelley/dockerfiles/packages/39808 "Deployed on GitHub Package Registry"

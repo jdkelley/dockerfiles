@@ -37,5 +37,5 @@ This is deployed on [Docker Hub][4] and [GitHub Package Registry][5].
 [1]: https://stedolan.github.io/jq/       "jq"
 [2]: https://github.com/stedolan/jq       "jq Source Code (GitHub)"
 [3]: https://jqplay.org/                  "jq Playground"
-[4]: https://hub.docker.com/r/jdkelley/jq "jdkelley/jq on Docker Hub"
+[4]: https://hub.docker.com/r/jdkelley/jq "jdkelley/jq"
 [5]: https://github.com/jdkelley/dockerfiles/packages/39805 "Deployed on GitHub Package Registry"

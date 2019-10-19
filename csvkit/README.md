@@ -42,11 +42,12 @@ docker run --rm \
 
 ### Deployed
 
-This is deployed on Docker Hub using their autobuilds tool: [jdkelley/csvkit][4]
+This is deployed on [Docker Hub][4] and [GitHub Package Registry][5].
 
 [//]: # "LINKS"
 
 [1]: https://csvkit.readthedocs.io/en/1.0.3/                    "csvkit docs"
 [2]: https://github.com/wireservice/csvkit                      "csvkit Source Code (GitHub)"
 [3]: https://media.readthedocs.org/pdf/csvkit/latest/csvkit.pdf "Latest Release Documentation"
-[4]: https://hub.docker.com/r/jdkelley/csvkit                   "jdkelley/csvkit on Docker Hub"
+[4]: https://hub.docker.com/r/jdkelley/csvkit                   "jdkelley/csvkit"
+[5]: https://github.com/jdkelley/dockerfiles/packages/39810 "Deployed on GitHub Package Registry"
