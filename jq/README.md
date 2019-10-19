@@ -30,7 +30,7 @@ alias jqit="docker run --rm -it jdkelley/jq"
 
 ### Deployed
 
-This is deployed on Docker Hub using their autobuilds tool: [jdkelley/jq][4]
+This is deployed on [Docker Hub][4] and [GitHub Package Registry][5].
 
 [//]: # "LINKS"
 
@@ -38,3 +38,4 @@ This is deployed on Docker Hub using their autobuilds tool: [jdkelley/jq][4]
 [2]: https://github.com/stedolan/jq       "jq Source Code (GitHub)"
 [3]: https://jqplay.org/                  "jq Playground"
 [4]: https://hub.docker.com/r/jdkelley/jq "jdkelley/jq on Docker Hub"
+[5]: https://github.com/jdkelley/dockerfiles/packages/39805 "Deployed on GitHub Package Registry"

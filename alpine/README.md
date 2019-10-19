@@ -14,7 +14,7 @@ FROM jdkelley/alpine:latest
 
 ### Deployed
 
-This is deployed on Docker Hub using their autobuilds tool: [jdkelley/alpine][5]
+This is deployed on [Docker Hub][5] and [GitHub Package Registry][6].
 
 [//]: # "LINKS"
 
@@ -23,3 +23,4 @@ This is deployed on Docker Hub using their autobuilds tool: [jdkelley/alpine][5]
 [3]: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-1563  "CVE-2019-1563"
 [4]: https://github.com/alpinelinux/docker-alpine/issues/39        "docker-alpine Issue #39"
 [5]: https://hub.docker.com/r/jdkelley/alpine                      "jdkelley/alpine on Docker Hub"
+[6]: https://github.com/jdkelley/dockerfiles/packages/34858        "Deployed on GitHub Package Registry"

@@ -38,9 +38,10 @@ docker run --rm \
 
 ### Deployed
 
-This is deployed on Docker Hub using their autobuilds tool: [jdkelley/bash][2]
+This is deployed on [Docker Hub][2] and [GitHub Package Registry][3].
 
 [//]: # "LINKS"
 
 [1]: https://www.gnu.org/software/bash/     "GNU Bash"
 [2]: https://hub.docker.com/r/jdkelley/bash "jdkelley/bash on Docker Hub"
+[3]: https://github.com/jdkelley/dockerfiles/packages/39804 "On GitHub Package Registry"
