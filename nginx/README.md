@@ -1,4 +1,4 @@
-## alpine
+## nginx
 
 Currently the alpine based [Nginx][1] container on Docker Hub has two security vulnerabilities ([CVE-2019-1549][2] and [CVE-2019-1563][3]) around OpenSSL. There is a [Github ticket][4] to resolve these CVEs but there is no telling when this will be shipped in the docker-alpine repo.  
 
