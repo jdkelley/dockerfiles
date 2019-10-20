@@ -10,4 +10,8 @@ I will be adding other containerized tools I regularly use including several GUI
 
 You can find most of these built as images and available on dockerhub under [jdkelley](https://hub.docker.com/r/jdkelley). I use these images on a daily basis. Feel free to use them.
 
-If an image doesn't work for you or you have an image you would like added, drop a pull request. 
+If an image doesn't work for you or you have an image you would like added, drop a pull request.
+
+Any work I have done here is released under the [MIT License][1]. 
+
+[1]: ./LICENSE "MIT"
